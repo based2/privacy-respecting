@@ -72,7 +72,7 @@ The list is separated into topics and each service or software stated gives supp
 ## Related
 - [Privacy tools](https://www.privacytools.io/)
 - [Prism Break](https://prism-break.org/en/all/)
-- [List of best privacy practices](https://spideroak.com/infosec/) [Bonnes pratiques](https://www.ssi.gouv.fr/administration/bonnes-pratiques/) [OWASP](https://www.owasp.org/index.php/Main_Page) 
+- [List of best privacy practices](https://spideroak.com/infosec/) [Bonnes pratiques](https://www.ssi.gouv.fr/administration/bonnes-pratiques/) [OWASP](https://www.owasp.org/index.php/Main_Page) [EFF](https://www.eff.org/issues/privacy)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
 - [Adversaries and Anonymity Systems: The Basics](https://www.ivpn.net/privacy-guides/adversaries-and-anonymity-systems-the-basics)
 - [Will a VPN Protect Me? Defining Your Threat Model](https://www.ivpn.net/privacy-guides/will-a-vpn-protect-me)
