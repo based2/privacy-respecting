@@ -24,7 +24,7 @@ The list is separated into topics and each service or software stated gives supp
 [GDPR Portal](https://www.eugdpr.org/)
 
 ## Search Engines
-- [Qwant][https://www.qwant.com/] - [Politique de protection des données](https://about.qwant.com/fr/legal/confidentialite/).
+- [Qwant](https://www.qwant.com/) - [Politique de protection des données](https://about.qwant.com/fr/legal/confidentialite/).
 - [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
 - [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://github.com/asciimoo/searx/).
